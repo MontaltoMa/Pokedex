@@ -1,20 +1,21 @@
 body {
-    background-color: #cadcfc;
+    background: url(	https://lsantanaa.github.io/pokedex_developer_js/assets/img/bodyBG.png) center;
+    background-size: contain;
 }
 
-h1 {
-    color: black;
+h1 {   
     font-size: 3.5em;
     text-align: center;
-    background-color: rgba(255, 0, 0, 0.555);
-    border-radius: 1rem;
-    filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.432));
+    color: #fff;
 }
 
 a {
     text-decoration: none;
 }
 
+.content {
+    background-color: rgba(29, 27, 27, 0.432);
+}
 .pokemons {
     display: grid;
     grid-template-columns: 1fr;
@@ -179,4 +180,10 @@ a {
     .pokemons{
         grid-template-columns: 1fr 1fr 1fr ;
     }
+}
+
+footer {
+    background-color: rgba(3, 3, 3, 0.651);
+    text-align: center;
+    color: #fff;
 }
