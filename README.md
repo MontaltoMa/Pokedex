@@ -9,14 +9,5 @@ Este projeto foi construído com as seguintes tecnologias:
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 - [PokéAPI](https://pokeapi.co/)
 
-## Como Usar
-
-Clone o projeto
-
-```bash
-  git clone https://github.com/valdir-alves3000/js-developer-pokedex.git
-```
-
-Abra o arquivo index.html em seu navegador.
 
  Link do site: https://montaltoma.github.io/Pokedex/
