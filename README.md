@@ -2,7 +2,7 @@
 
 Este é um projeto de Pokedex, que exibe informações sobre vários Pokémon. O objetivo deste projeto é permitir que os usuários pesquisem e visualizem informações úteis sobre as diferentes espécies de Pokémon disponíveis.
 
-<img src="PNG_pages-to-jpg-0001.png" alt="Imagem do projeto">
+<img src="assets/img/PNG_pages-to-jpg-0001.png" alt="Imagem projeto">
 
 Este projeto foi construído com as seguintes tecnologias:
 
