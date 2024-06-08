@@ -1,6 +1,6 @@
 # Trilha JS Developer - Pokedex
 
-Este é um projeto de Pokedex, que exibe informações sobre vários Pokémon. O objetivo deste projeto é permitir que os usuários pesquisem e visualizem informações úteis sobre as diferentes espécies de Pokémon disponíveis.
+Este é um projeto de Pokedex, que exibe informações sobre os Pokémons da primeira geração. O objetivo deste projeto é permitir que os usuários pesquisem e visualizem informações úteis sobre as diferentes espécies de Pokémon disponíveis.
 
 <img src="assets/img/PNG_pages-to-jpg-0001.png" alt="Imagem projeto">
 
